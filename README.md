@@ -9,7 +9,7 @@
 
 3. PUT
 
-
+![alt text](image-2.png)
 
 4. DETELE
 
