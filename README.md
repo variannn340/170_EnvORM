@@ -1,7 +1,13 @@
-Before:
+1. POST
 
-![alt text](<Screenshot (33400).png>)
+![alt text](image.png)
 
-After:
 
-![alt text](<Screenshot (33401).png>)
+2. GET
+
+
+3. PUT
+
+
+4. DETELE
+
